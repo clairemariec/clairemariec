@@ -1,5 +1,29 @@
 ### Hi there 👋
 
+# About Me
+
+## Skills
+
+## Tools
+
+Jira
+- Creation of projects
+- tracking the progress of tickets / stories
+
+Trello
+- Use of kanban boards to track projects
+
+Notion
+
+## Certifications
+
+## Examples of my work
+
+## Open source projects I have contributed to
+
+## Books I Have Read
+
+
 <!--
 **clairemariec/clairemariec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
