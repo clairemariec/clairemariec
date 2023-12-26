@@ -6,14 +6,14 @@
 
 ## Tools
 
-Jira
+### Jira
 - Creation of projects
 - tracking the progress of tickets / stories
 
-Trello
+### Trello
 - Use of kanban boards to track projects
 
-Notion
+### Notion
 
 ## Certifications
 
