@@ -15,6 +15,10 @@
 
 ### Notion
 
+### GitKraken
+
+### Visual Studio Code (VS Code)
+
 ## Certifications
 
 ## Examples of my work
