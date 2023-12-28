@@ -2,11 +2,13 @@
 ### Hi there 👋
 
 ## Skills
+
 ### Manual testing
 -exploritory testing
 -creating a test library
 -test execution and results
 -regression testing
+
 ### Work tracking in Jira
 -creating epics and items
 -maintaining boards
