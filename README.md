@@ -18,7 +18,7 @@
 
 ###Postman
 I am currently working through the Postman academy to learn the fundamentals of using Postman to work with APIs
-most recently I completed the [API Beginner Learning Path]([url](http://verify.skilljar.com/c/6vc488txhsqg)) 
+most recently I completed the [API Beginner Learning Path](http://verify.skilljar.com/c/6vc488txhsqg) 
 
 ### Jira
 - Creation of projects
@@ -34,7 +34,7 @@ most recently I completed the [API Beginner Learning Path]([url](http://verify.s
 ### Visual Studio Code (VS Code)
 
 ## Certifications
-[API Beginner Learning Path]([url](http://verify.skilljar.com/c/6vc488txhsqg)) 13th January 2024
+[API Beginner Learning Path](http://verify.skilljar.com/c/6vc488txhsqg) 13th January 2024
 
 ## Examples of my work
 
