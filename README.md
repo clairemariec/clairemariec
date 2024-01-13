@@ -16,6 +16,10 @@
 
 ## Tools
 
+###Postman
+I am currently working through the Postman academy to learn the fundamentals of using Postman to work with APIs
+most recently I completed the [API Beginner Learning Path]([url](http://verify.skilljar.com/c/6vc488txhsqg)) 
+
 ### Jira
 - Creation of projects
 - tracking the progress of tickets / stories
@@ -30,6 +34,7 @@
 ### Visual Studio Code (VS Code)
 
 ## Certifications
+[API Beginner Learning Path]([url](http://verify.skilljar.com/c/6vc488txhsqg)) 13th January 2024
 
 ## Examples of my work
 
