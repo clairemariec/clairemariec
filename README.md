@@ -16,8 +16,8 @@
 
 ## Tools
 
-###Postman
-I am currently working through the Postman academy to learn the fundamentals of using Postman to work with APIs
+### Postman
+I am currently working through the Postman Academy to learn the fundamentals of using Postman to work with APIs
 most recently I completed the [API Beginner Learning Path](http://verify.skilljar.com/c/6vc488txhsqg) 
 
 ### Jira
@@ -30,8 +30,21 @@ most recently I completed the [API Beginner Learning Path](http://verify.skillja
 ### Notion
 
 ### GitKraken
+- Initialising and cloning repo's
+- staging and committing changrs
+- pulling, pushing, and pull requests to and from GitHub repo's
 
 ### Visual Studio Code (VS Code)
+- creating files
+- JavaScript Object Notation (JSON)
+- installing dependencies
+- creating jest tests
+- running builds
+- running tests
+- debugging
+
+### Docker
+- creating docker containers
 
 ## Certifications
 [API Beginner Learning Path](http://verify.skilljar.com/c/6vc488txhsqg) 13th January 2024
