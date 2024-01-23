@@ -1,6 +1,8 @@
 # About Me
 ### Hi there 👋
 
+I am currently learning as much about software testing / Quality Assurance as possible through tool-specific courses, codeacademy and hands-on open source project work.
+
 ## Skills
 
 ### Manual testing
@@ -8,11 +10,7 @@
 - creating a test library
 - test execution and results
 - regression testing
-
-### Work tracking in Jira
-- creating epics and items
-- maintaining boards
-
+- 
 
 ## Tools
 
@@ -24,15 +22,18 @@ most recently I completed the [API Beginner Learning Path](http://verify.skillja
 - Creation of projects
 - tracking the progress of tickets / stories
 
-### Trello
-- Use of kanban boards to track projects
-
-### Notion
+### Kanban
+- Use of Kanban boards to track projects
+- creating and tracking issues, including bugs and feature requests
+- assigning epics
+- assessing the backlog and helping to select items for development
 
 ### GitKraken
-- Initialising and cloning repo's
-- staging and committing changrs
-- pulling, pushing, and pull requests to and from GitHub repo's
+Find my GitKraken [Foundations of Git certificate here](https://learn.gitkraken.com/certificates/rqtjzxwrpp)
+- Initialising, cloning, and forking repo's
+- Staging and committing changes
+- Merging, rebasing & Cherry Picking changes
+- Pulling, pushing, and pull requests to and from GitHub repo's
 
 ### Visual Studio Code (VS Code)
 - creating files
@@ -49,12 +50,19 @@ most recently I completed the [API Beginner Learning Path](http://verify.skillja
 ## Certifications
 [API Beginner Learning Path](http://verify.skilljar.com/c/6vc488txhsqg) 13th January 2024
 
+[Foundations of Git](https://learn.gitkraken.com/certificates/rqtjzxwrpp) 22nd January 2024
+
+### Languages
+
+##JavaScript
+I am currently learning more about java script and JSON in order to more effectively use the tools I am working with
+
 ## Examples of my work
 
 ## Open source projects I have contributed to
 
 ## Books I Have Read
-
+- 🌱 I’m currently reading Software Testing (BCS), User Acceptance Testing (BCS) and Agile Foundations (BCS) with a view to taking the ISTQB Software Testing Certification
 
 <!--
 **clairemariec/clairemariec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
