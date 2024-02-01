@@ -51,9 +51,9 @@ Find my GitKraken [Foundations of Git certificate here](https://learn.gitkraken.
 
 [Foundations of Git](https://learn.gitkraken.com/certificates/rqtjzxwrpp) 22nd January 2024
 
-### Languages
+## Languages
 
-## JavaScript
+### JavaScript
 I am currently learning more about javascript and JSON to more effectively use the tools I am working with
 
 ## Examples of my work
