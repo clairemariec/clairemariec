@@ -1,16 +1,15 @@
 # About Me
 ### Hi there 👋
 
-I am currently learning as much about software testing / Quality Assurance as possible through tool-specific courses, codeacademy and hands-on open source project work.
+I am currently learning as much about software testing / Quality Assurance as possible through tool-specific courses, Codecademy and hands-on open-source project work.
 
 ## Skills
 
 ### Manual testing
-- exploritory testing
+- exploratory testing
 - creating a test library
 - test execution and results
 - regression testing
-- 
 
 ## Tools
 
@@ -20,7 +19,7 @@ most recently I completed the [API Beginner Learning Path](http://verify.skillja
 
 ### Jira
 - Creation of projects
-- tracking the progress of tickets / stories
+- tracking the progress of tickets/stories
 
 ### Kanban
 - Use of Kanban boards to track projects
@@ -54,8 +53,8 @@ Find my GitKraken [Foundations of Git certificate here](https://learn.gitkraken.
 
 ### Languages
 
-##JavaScript
-I am currently learning more about java script and JSON in order to more effectively use the tools I am working with
+## JavaScript
+I am currently learning more about javascript and JSON to more effectively use the tools I am working with
 
 ## Examples of my work
 
