@@ -1,7 +1,9 @@
 # About Me
 ### Hi there 👋
 
-I am currently learning as much about software testing / Quality Assurance as possible through tool-specific courses, Codecademy and hands-on open-source project work.
+I am currently learning software testing foundations to sit the ISTQB foundation certified tester exam and I am complementing this with learning as much about software testing / Quality Assurance as possible in real-world environments (e.g. open source project work and hands-on learning with friends from the industry) and through tool-specific courses and Codecademy.
+
+I have a good understanding of Agile including the differences between Scrum and Kanban and I am also studying to become a Scrum Master.
 
 ## Skills
 
@@ -19,29 +21,27 @@ most recently I completed the [API Beginner Learning Path](http://verify.skillja
 
 ### Jira
 - Creation of projects
-- tracking the progress of tickets/stories
-
-### Kanban
-- Use of Kanban boards to track projects
-- creating and tracking issues, including bugs and feature requests
-- assigning epics
-- assessing the backlog and helping to select items for development
+- Tracking the progress of tickets/stories
+- Creating and tracking issues, including bugs and feature requests
+- Assigning epics
+- Assessing the backlog and helping to select items for development
 
 ### GitKraken
 Find my GitKraken [Foundations of Git certificate here](https://learn.gitkraken.com/certificates/rqtjzxwrpp)
 - Initialising, cloning, and forking repo's
 - Staging and committing changes
 - Merging, rebasing & Cherry Picking changes
-- Pulling, pushing, and pull requests to and from GitHub repo's
+- Pulling, pushing, and pull requests to and from GitHub repositories's
 
 ### Visual Studio Code (VS Code)
-- creating files
+- Creating files
 - JavaScript Object Notation (JSON)
-- installing dependencies
-- creating jest tests
-- running builds
-- running tests
-- debugging
+- Installing dependencies
+- Creating jest tests
+- Creating K6 load tests
+- Running builds
+- Running tests
+- Debugging
 
 ### Docker
 - creating docker containers
@@ -56,7 +56,7 @@ Find my GitKraken [Foundations of Git certificate here](https://learn.gitkraken.
 ## Languages
 
 ### JavaScript
-I am currently learning more about javascript and JSON to more effectively use the tools I am working with
+I am currently learning more about javascript and JSON to more effectively use the tools I am working with and have a rough understanding of HTML and CSS to go with this.
 
 ## Examples of my work
 
