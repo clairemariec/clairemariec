@@ -51,6 +51,8 @@ Find my GitKraken [Foundations of Git certificate here](https://learn.gitkraken.
 
 [Foundations of Git](https://learn.gitkraken.com/certificates/rqtjzxwrpp) 22nd January 2024
 
+[Code Institute 5 Day Coding Challenge](https://learn.codeinstitute.net/certificates/50846914dc604f1cacc7f83656f15a56) 23rd February 2024
+
 ## Languages
 
 ### JavaScript
@@ -61,7 +63,7 @@ I am currently learning more about javascript and JSON to more effectively use t
 ## Open source projects I have contributed to
 
 ## Books I Have Read
-- 🌱 I’m currently reading Software Testing (BCS), User Acceptance Testing (BCS) and Agile Foundations (BCS) with a view to taking the ISTQB Software Testing Certification
+- 🌱 I’m currently reading Software Testing (BCS), User Acceptance Testing (BCS) and Agile Foundations (BCS) to study alongside the Udemy ISTQB Certified Tester course with a view to taking the ISTQB Software Testing Certification
 
 <!--
 **clairemariec/clairemariec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
