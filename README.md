@@ -8,10 +8,10 @@ I have a good understanding of Agile including the differences between Scrum and
 ## Skills
 
 ### Manual testing
-- exploratory testing
-- creating a test library
-- test execution and results
-- regression testing
+- Exploratory testing
+- Creating a test library
+- Test execution and results
+- Regression testing
 
 ## Tools
 
@@ -63,7 +63,8 @@ I am currently learning more about javascript and JSON to more effectively use t
 ## Open source projects I have contributed to
 
 ## Books I Have Read
-- 🌱 I’m currently reading Software Testing (BCS), User Acceptance Testing (BCS) and Agile Foundations (BCS) to study alongside the Udemy ISTQB Certified Tester course with a view to taking the ISTQB Software Testing Certification
+- The 2 minute tester - David Bruce
+-  🌱 I’m currently reading Software Testing (BCS), User Acceptance Testing (BCS) and Agile Foundations (BCS) to study alongside the Udemy ISTQB Certified Tester course with a view to taking the ISTQB Software Testing Certification
 
 <!--
 **clairemariec/clairemariec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
