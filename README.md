@@ -1,7 +1,7 @@
 # About Me
 ### Hi there 👋
 
-I am currently learning software testing foundations to sit the ISTQB foundation certified tester exam and I am complementing this with learning as much about software testing / Quality Assurance as possible in real-world environments (e.g. open source project work and hands-on learning with friends from the industry) and through tool-specific courses and Codecademy.
+I have resently sat the ISTQB foundation certified tester exam and I am complementing this with learning as much about software testing and Quality Assurance as possible in real-world environments (e.g. open source project work and hands-on learning with friends from the industry) and through tool-specific courses and Codecademy.
 
 I have a good understanding of Agile including the differences between Scrum and Kanban and I am also studying to become a Scrum Master.
 
@@ -55,6 +55,8 @@ Find my GitKraken [Foundations of Git certificate here](https://learn.gitkraken.
 
 [Udemy ISTQB Certified Tester - Foundation Level - 2024](https://www.udemy.com/certificate/UC-50339326-0d86-44b4-9b29-a94b05ffaf08/) 23rd May 2024
 
+ISTQB Certified Tester Foundation Level v4.0 27th June 2024
+
 ## Languages
 
 ### JavaScript
@@ -64,10 +66,16 @@ I am currently learning more about javascript and JSON to more effectively use t
 
 ## Open source projects I have contributed to
 
-## Books I Have Read
+## On my bookshelf
 - The 2 minute tester - David Bruce
--  🌱 I’m currently reading Software Testing Fifth Edition (BCS), User Acceptance Testing (BCS) and Agile Foundations (BCS) to study alongside the completed Udemy ISTQB Certified Tester course with a view to taking the ISTQB Software Testing Certification
+- The Self-Taught Aglie Tester - Chhavi Raj Dosaj
+-  Software Testing 5th edition - Geoff Thompson, Peter Morgan, Angelina Samaroo, John Kurowski, Peter Williams, Marie Salmon. BCS
+-  Practical Test Design - István Forgács, Attila Kovács. CS
+-  User Acceptance Testing - Brian Hambling, Pauline van Goethem. BCS
+-  Agile foundations: Principles, Practices & Frameworks - Peter Measey & Radtac
+-  The Cucumber for Java Book - Seb Rose, Matt Wynne & Aslak Hellesoy. This is how I realised JavaScript is not a subset of Java, but it was an interesting book none the less!
 
+What books are on your bookself that you'd reccomend?
 <!--
 **clairemariec/clairemariec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
