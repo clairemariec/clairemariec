@@ -1,7 +1,7 @@
 # About Me
 ### Hi there 👋
 
-I have resently sat the ISTQB foundation certified tester exam and I am complementing this with learning as much about software testing and Quality Assurance as possible in real-world environments (e.g. open source project work and hands-on learning with friends from the industry) and through tool-specific courses and Codecademy.
+I have recently passed the ISTQB foundation certified tester exam and I am complementing this with learning as much about software testing and Quality Assurance as possible in real-world environments (e.g. open-source project work and hands-on learning with friends from the industry) and through tool-specific courses and Codecademy.
 
 I have a good understanding of Agile including the differences between Scrum and Kanban and I am also studying to become a Scrum Master.
 
@@ -12,6 +12,9 @@ I have a good understanding of Agile including the differences between Scrum and
 - Creating a test library
 - Test execution and results
 - Regression testing
+
+### Automated Testing
+- I have been experimenting with running load and stress tests using K6 and viewing the results in Grafana
 
 ## Tools
 
@@ -31,7 +34,7 @@ Find my GitKraken [Foundations of Git certificate here](https://learn.gitkraken.
 - Initialising, cloning, and forking repo's
 - Staging and committing changes
 - Merging, rebasing & Cherry Picking changes
-- Pulling, pushing, and pull requests to and from GitHub repositories's
+- Pulling, pushing, and pull requests to and from GitHub repositories
 
 ### Visual Studio Code (VS Code)
 - Creating files
@@ -46,16 +49,19 @@ Find my GitKraken [Foundations of Git certificate here](https://learn.gitkraken.
 ### Docker
 - creating docker containers
 
+### PostgreSQL
+
 ## Certifications
-[API Beginner Learning Path](http://verify.skilljar.com/c/6vc488txhsqg) 13th January 2024
-
-[Foundations of Git](https://learn.gitkraken.com/certificates/rqtjzxwrpp) 22nd January 2024
-
-[Code Institute 5 Day Coding Challenge](https://learn.codeinstitute.net/certificates/50846914dc604f1cacc7f83656f15a56) 23rd February 2024
+ISTQB Certified Tester Foundation Level v4.0 27th June 2024
 
 [Udemy ISTQB Certified Tester - Foundation Level - 2024](https://www.udemy.com/certificate/UC-50339326-0d86-44b4-9b29-a94b05ffaf08/) 23rd May 2024
 
-ISTQB Certified Tester Foundation Level v4.0 27th June 2024
+[Code Institute 5 Day Coding Challenge](https://learn.codeinstitute.net/certificates/50846914dc604f1cacc7f83656f15a56) 23rd February 2024
+
+[Foundations of Git](https://learn.gitkraken.com/certificates/rqtjzxwrpp) 22nd January 2024
+
+[API Beginner Learning Path](http://verify.skilljar.com/c/6vc488txhsqg) 13th January 2024
+
 
 ## Languages
 
@@ -68,14 +74,14 @@ I am currently learning more about javascript and JSON to more effectively use t
 
 ## On my bookshelf
 - The 2 minute tester - David Bruce
-- The Self-Taught Aglie Tester - Chhavi Raj Dosaj
+- The Self-Taught Agile Tester - Chhavi Raj Dosaj
 -  Software Testing 5th edition - Geoff Thompson, Peter Morgan, Angelina Samaroo, John Kurowski, Peter Williams, Marie Salmon. BCS
--  Practical Test Design - István Forgács, Attila Kovács. CS
+-  Practical Test Design - István Forgács, Attila Kovács. BCS
 -  User Acceptance Testing - Brian Hambling, Pauline van Goethem. BCS
--  Agile foundations: Principles, Practices & Frameworks - Peter Measey & Radtac
+-  Agile foundations: Principles, Practices & Frameworks - Peter Measey & Radtac BCS
 -  The Cucumber for Java Book - Seb Rose, Matt Wynne & Aslak Hellesoy. This is how I realised JavaScript is not a subset of Java, but it was an interesting book none the less!
 
-What books are on your bookself that you'd reccomend?
+What books are on your bookshelf that you'd recommend?
 <!--
 **clairemariec/clairemariec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
