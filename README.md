@@ -3,13 +3,13 @@
 
 I have recently passed the ISTQB foundation certified tester exam and I am complementing this with learning as much about software testing and Quality Assurance as possible in real-world environments (e.g. open-source project work and hands-on learning with friends from the industry) and through tool-specific courses and Codecademy.
 
-I have a good understanding of Agile including the differences between Scrum and Kanban and I am also studying to become a Scrum Master.
+I have been developing a good understanding of Agile including the differences between Scrum and Kanban. In the project I am currently working on, I play an active role in sprint planning, daily scrums, sprint reviews, and sprint retrospectives.
 
 ## Skills
 
 ### Manual testing
 - Exploratory testing
-- Creating a test library
+- Creating a test library (including both happy path and negative testing)
 - Test execution and results
 - Regression testing
 
@@ -22,10 +22,16 @@ I have a good understanding of Agile including the differences between Scrum and
 I am currently working through the Postman Academy to learn the fundamentals of using Postman to work with APIs
 most recently I completed the [API Beginner Learning Path](http://verify.skilljar.com/c/6vc488txhsqg) 
 
+I have been using Postman to test REST API's
+-verifying the correctness and functionality of API endpoints
+-validating data inputs
+-testing security by testing access controls to prevent unauthorised access to sensitive resources
+-regression testing after bug fixes
+
 ### Jira
 - Creation of projects
-- Tracking the progress of tickets/stories
-- Creating and tracking issues, including bugs and feature requests
+- Tracking the progress of tickets/stories on the board
+- Creating and tracking issues, including bugs (with a bug template) and feature requests (in Cucumber format)
 - Assigning epics
 - Assessing the backlog and helping to select items for development
 
@@ -45,11 +51,26 @@ Find my GitKraken [Foundations of Git certificate here](https://learn.gitkraken.
 - Running builds
 - Running tests
 - Debugging
+- using copilot to help guide my coding
 
 ### Docker
 - creating docker containers
 
+##K6 & Grafana
+I have been using K6 to carry out load testing, and Grafana to visualise the results
+
+## Playwright
+
+
+## DataStores
+
 ### PostgreSQL
+I have been using PostgreSQL to carry out CRUD on an existing relational database, using SQL to pull and combine data from the different tables
+
+### MongoDB
+MongoDB is the document-orientated database that I have been learning to navigate
+
+
 
 ## Certifications
 ISTQB Certified Tester Foundation Level v4.0 27th June 2024
@@ -66,7 +87,7 @@ ISTQB Certified Tester Foundation Level v4.0 27th June 2024
 ## Languages
 
 ### JavaScript
-I am currently learning more about javascript and JSON to more effectively use the tools I am working with and have a rough understanding of HTML and CSS to go with this.
+I am currently learning more about JavaScript and JSON to more effectively use the tools I am working with and have a rough understanding of HTML and CSS to go with this along with familiarising myself with TypeScript.
 
 ## Examples of my work
 
