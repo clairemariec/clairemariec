@@ -56,7 +56,7 @@ Find my GitKraken [Foundations of Git certificate here](https://learn.gitkraken.
 ### Docker
 - creating docker containers
 
-## K6 & Grafana
+### K6 & Grafana
 I have been using K6 to carry out load testing, and Grafana to visualise the results
 
 ### Playwright
