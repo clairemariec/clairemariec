@@ -60,7 +60,9 @@ Find my GitKraken [Foundations of Git certificate here](https://learn.gitkraken.
 I have been using K6 to carry out load testing, and Grafana to visualise the results
 
 ### Playwright
-
+- Creation of manually written tests
+- Creation of tests in Visual Studio Code using codegen, turning real-life navigation of a website into usable test code
+- Analysing test reports
 
 ## DataStores
 
@@ -70,7 +72,10 @@ I have been using PostgreSQL to carry out CRUD on an existing relational databas
 ### MongoDB
 MongoDB is the document-orientated database that I have been learning to navigate
 
+## My Favourite Chrome Extensions
 
+- Grammarly: For grammar, spell checking and tone checking to ensure content is clear.
+- Fake filler: for quick input of randomised dummy data
 
 ## Certifications
 ISTQB Certified Tester Foundation Level v4.0 27th June 2024
