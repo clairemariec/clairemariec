@@ -75,7 +75,8 @@ MongoDB is the document-orientated database that I have been learning to navigat
 ## My Favourite Chrome Extensions
 
 - Grammarly: For grammar, spell checking and tone checking to ensure content is clear.
-- Fake filler: for quick input of randomised dummy data
+- Fake filler: for quick input of randomised dummy data.
+- Screen Recorder (scree.io): for quick recordings of test steps to help replicate bugs.
 
 ## Certifications
 ISTQB Certified Tester Foundation Level v4.0 27th June 2024
