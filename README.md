@@ -107,6 +107,7 @@ I am currently learning more about JavaScript and JSON to more effectively use t
 -  User Acceptance Testing - Brian Hambling, Pauline van Goethem. BCS
 -  Agile foundations: Principles, Practices & Frameworks - Peter Measey & Radtac BCS
 -  The Cucumber for Java Book - Seb Rose, Matt Wynne & Aslak Hellesoy. This is how I realised JavaScript is not a subset of Java, but it was an interesting book none the less!
+-  Drive - Daniel Pink
 
 What books are on your bookshelf that you'd recommend?
 <!--
