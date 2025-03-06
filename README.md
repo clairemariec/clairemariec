@@ -111,6 +111,66 @@ I am currently learning more about JavaScript and JSON to more effectively use t
 
 What books are on your bookshelf that you'd recommend?
 <!--
+
+## About Me 
+
+
+
+A passionate QA Engineer with growing experience specializing in testing. Committed to delivering high-quality software by employing comprehensive testing methodologies and a commitment to learning how to automate repetitive tasks. 
+
+
+
+**Technical Skills:**
+
+
+
+* **Test Automation Tools:** Postman, Playwright
+
+* **Programming Languages:** JavaScript, Typescript
+
+* **Testing Frameworks:** Cucumber
+
+
+
+**Testing Philosophy:**
+
+
+
+* Risk-based testing approach to prioritize critical functionalities.
+
+* Strong focus on user experience and accessibility testing.
+
+* Continuous integration and automated regression testing for rapid feedback loops.
+
+
+
+**Project Highlights:**
+
+
+
+* [Project Name]: Successfully implemented comprehensive test suite for a large e-commerce platform, leading to significant reduction in post-release defects.
+
+* [Project Name]: Developed automated UI tests for a complex mobile app, improving testing efficiency by [X%] 
+
+
+
+**Contribution Guidelines:**
+
+
+
+* Fork this repository and create a new branch for your contributions.
+
+* Submit pull requests with clear descriptions of changes made.
+
+
+
+**Contact:**
+
+
+
+* Email: [yclairemcollis@gmail.com] 
+
+* LinkedIn: [your_linkedin_profile] 
 **clairemariec/clairemariec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
