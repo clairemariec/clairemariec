@@ -1,85 +1,86 @@
-# About Me
-### Hi there 👋
+# Hi, I'm Claire 👋
 
-I have recently passed the ISTQB foundation certified tester exam and I am complementing this with learning as much about software testing and Quality Assurance as possible in real-world environments (e.g. open-source project work and hands-on learning with friends from the industry) and through tool-specific courses and Codecademy.
+### QA Engineer · Quality Engineering · AI-Assisted Development · AI-Augmented QA
 
-I have been developing a good understanding of Agile including the differences between Scrum and Kanban. In the project I am currently working on, I play an active role in sprint planning, daily scrums, sprint reviews, and sprint retrospectives.
+I'm a QA Engineer with experience across enterprise software and startups, with a particular interest in quality engineering, test automation and practical applications of AI.
 
-## Skills
+I enjoy getting beyond the UI to understand how software works, investigating issues in real environments, and finding ways to make testing more effective. My background in customer-facing roles also shapes how I approach quality: I care about the impact software has on the people who rely on it.
 
-### Manual testing
-- Exploratory testing
-- Creating a test library (including both happy path and negative testing)
-- Test execution and results
-- Regression testing
+## What I Do
 
-### Automated Testing
-- I have been experimenting with running load and stress tests using K6 and viewing the results in Grafana
+* **Quality Assurance:** Exploratory, regression, integration, release, API, E2E and risk-based testing.
+* **Technical Investigation:** Troubleshooting customer issues using logs, databases, Linux environments and observability tools.
+* **API & Data Testing:** REST APIs, authentication and authorisation, database validation, ETL and data pipelines.
+* **Automation & CI/CD:** Playwright experience, growing Cypress experience, and working with automated test suites in GitHub Actions.
+* **Team Quality:** Mentoring QAs, sharing SME knowledge, supporting customer escalations and contributing to release confidence.
 
-## Tools
+## AI-Assisted Development & QA
 
-### Postman
-I am currently working through the Postman Academy to learn the fundamentals of using Postman to work with APIs
-most recently I completed the [API Beginner Learning Path](http://verify.skilljar.com/c/6vc488txhsqg) 
+I'm particularly interested in using AI not just to test software, but to improve how software is built, tested and supported.
 
-I have been using Postman to test REST API's
--verifying the correctness and functionality of API endpoints
--validating data inputs
--testing security by testing access controls to prevent unauthorised access to sensitive resources
--regression testing after bug fixes
+At BeyondTrust, I contributed to **TestPilot**, an internal AI-assisted QA tool that began as a hackathon project and evolved into a Claude Skill used in our team's workflow.
 
-### Jira
-- Creation of projects
-- Tracking the progress of tickets/stories on the board
-- Creating and tracking issues, including bugs (with a bug template) and feature requests (in Cucumber format)
-- Assigning epics
-- Assessing the backlog and helping to select items for development
+The project explored how AI could help us:
 
-### GitKraken
-Find my GitKraken [Foundations of Git certificate here](https://learn.gitkraken.com/certificates/rqtjzxwrpp)
-- Initialising, cloning, and forking repo's
-- Staging and committing changes
-- Merging, rebasing & Cherry Picking changes
-- Pulling, pushing, and pull requests to and from GitHub repositories
+* Analyse Jira tickets, requirements and acceptance criteria.
+* Review pull requests and identify changes that could affect testing.
+* Find relevant existing tests and highlight potential coverage gaps.
+* Generate useful Xray test cases and support acceptance-criteria discussions.
+* Bring together information to help investigate bugs and related support issues.
 
-### Visual Studio Code (VS Code)
-- Creating files
-- JavaScript Object Notation (JSON)
-- Installing dependencies
-- Creating jest tests
-- Creating K6 load tests
-- Running builds
-- Running tests
-- Debugging
-- using copilot to help guide my coding
+The project evolved from a web application into a Claude Skill as our team's workflow developed. Building it involved exploring AI-assisted development, integrations, authentication and security considerations.
 
-### Docker
-- creating docker containers
+Across two internal hackathon weeks, I received two Judges' Choice challenge coins.
 
-### K6 & Grafana
-I have been using K6 to carry out load testing, and Grafana to visualise the results
+In my day-to-day work, I use Claude to augment QA activities and identify opportunities for meaningful automation. I'm interested in where AI can reduce repetitive work while leaving critical thinking, risk assessment and testing judgement firmly in the process.
 
-### Playwright
-- Creation of manually written tests
-- Creation of tests in Visual Studio Code using codegen, turning real-life navigation of a website into usable test code
-- Analysing test reports
+## Experience
 
-## DataStores
+**BeyondTrust — QA Engineer**
+*July 2025 – Present*
 
-### PostgreSQL
-I have been using PostgreSQL to carry out CRUD on an existing relational database, using SQL to pull and combine data from the different tables
+* Product quality, release testing and customer escalations within an AI-enabled, Outcome-Based team.
+* Participated in 11 major release cycles.
+* Mentor a QA and share specialist knowledge to help broaden QA capability.
+* Investigate issues using Postman, Azure, Linux environments, Elastic logs and LaunchDarkly.
+* Work with Jira, Xray, GitHub, GitHub Actions, VS Code and GitKraken.
+* Continue developing automation skills, with an interest in an automation-first approach.
 
-### MongoDB
-MongoDB is the document-orientated database that I have been learning to navigate
+**BeyondTrust — Associate QA**
+*October 2024 – July 2025*
 
-## My Favourite Chrome Extensions
+Developed experience across enterprise QA, release processes, product behaviour and cross-functional collaboration.
 
-- Grammarly: For grammar, spell checking and tone checking to ensure content is clear.
-- Fake filler: for quick input of randomised dummy data.
-- Screen Recorder (scree.io): for quick recordings of test steps to help replicate bugs.
+**Stealth Startup — QA/ Software Tester**
+*Approximately 9 months*
 
-## Certifications
-ISTQB Certified Tester Foundation Level v4.0 27th June 2024
+Worked in a cross-functional Scrum team building an MVP cloud application for engineering insights. My experience included:
+
+* Creating Jira epics and stories, acceptance criteria, test plans and test libraries.
+* API testing with Postman, including authentication and authorisation testing.
+* End-to-end testing with Playwright across a Next.js/React application.
+* Performance testing with k6 and TypeScript.
+* MongoDB and PostgreSQL test data, database validation and data pipeline testing.
+* Regression testing, defect reporting, release notes and test metrics.
+* Using logs and dashboards to investigate behaviour and support a shift-left testing approach.
+
+## Technical Toolkit
+
+| Area                               | Tools & Technologies                                                                                              |
+| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Testing                            | Software Testing, Exploratory Testing, Regression Testing, API Testing, Playwright, Cypress, Postman, Xray, NUnit |
+| AI                                 | Claude, Claude Skills, GitHub Copilot, AI-Assisted Development, AI-Augmented QA                                   |
+| Development & CI/CD                | GitHub, GitHub Actions, VS Code, GitKraken, TypeScript                                                            |
+| Data & Infrastructure              | Azure, MongoDB, PostgreSQL, Linux, ETL, Data Pipelines                                                            |
+| Web                                | Next.js, React                                                                                                    |
+| Observability & Feature Management | Elastic, LaunchDarkly, Logs, Dashboards                                                                           |
+| Ways of Working                    | Agile, Scrum, Outcome-Based Teams, Shift Left, Risk-Based Testing                                                 |
+
+## Certification
+
+**Professional Scrum Master** Scrum.org· October 2025
+
+**Certified Tester Foundation Level v4.0** ISTQB June 2024
 
 [Udemy ISTQB Certified Tester - Foundation Level - 2024](https://www.udemy.com/certificate/UC-50339326-0d86-44b4-9b29-a94b05ffaf08/) 23rd May 2024
 
@@ -89,98 +90,24 @@ ISTQB Certified Tester Foundation Level v4.0 27th June 2024
 
 [API Beginner Learning Path](http://verify.skilljar.com/c/6vc488txhsqg) 13th January 2024
 
+## What I'm Exploring
 
-## Languages
+* Building hands-on Cypress automation experience.
+* Moving toward an automation-first, quality-engineering mindset.
+* Using AI and reusable workflows to improve testing and investigation.
+* Strengthening the connection between code changes, risk and test coverage.
+* Finding practical ways to improve quality earlier in the development lifecycle.
 
-### JavaScript
-I am currently learning more about JavaScript and JSON to more effectively use the tools I am working with and have a rough understanding of HTML and CSS to go with this along with familiarising myself with TypeScript.
+---
 
-## Examples of my work
+I believe good QA is about more than finding defects. It's about understanding risk, asking better questions, and giving teams confidence in what they build.
 
-## Open source projects I have contributed to
-
-## On my bookshelf
-- The 2 minute tester - David Bruce
-- The Self-Taught Agile Tester - Chhavi Raj Dosaj
--  Software Testing 5th edition - Geoff Thompson, Peter Morgan, Angelina Samaroo, John Kurowski, Peter Williams, Marie Salmon. BCS
--  Practical Test Design - István Forgács, Attila Kovács. BCS
--  User Acceptance Testing - Brian Hambling, Pauline van Goethem. BCS
--  Agile foundations: Principles, Practices & Frameworks - Peter Measey & Radtac BCS
--  The Cucumber for Java Book - Seb Rose, Matt Wynne & Aslak Hellesoy. This is how I realised JavaScript is not a subset of Java, but it was an interesting book none the less!
--  Drive - Daniel Pink
-
-What books are on your bookshelf that you'd recommend?
-<!--
-
-## About Me 
-
-
-
-A passionate QA Engineer with growing experience specializing in testing. Committed to delivering high-quality software by employing comprehensive testing methodologies and a commitment to learning how to automate repetitive tasks. 
-
-
-
-**Technical Skills:**
-
-
-
-* **Test Automation Tools:** Postman, Playwright
-
-* **Programming Languages:** JavaScript, Typescript
-
-* **Testing Frameworks:** Cucumber
-
-
-
-**Testing Philosophy:**
-
-
-
-* Risk-based testing approach to prioritize critical functionalities.
-
-* Strong focus on user experience and accessibility testing.
-
-* Continuous integration and automated regression testing for rapid feedback loops.
-
-
-
-**Project Highlights:**
-
-
-
-* [Project Name]: Successfully implemented comprehensive test suite for a large e-commerce platform, leading to significant reduction in post-release defects.
-
-* [Project Name]: Developed automated UI tests for a complex mobile app, improving testing efficiency by [X%] 
-
-
-
-**Contribution Guidelines:**
-
-
-
-* Fork this repository and create a new branch for your contributions.
-
-* Submit pull requests with clear descriptions of changes made.
-
-
+**The goal isn't more testing. It's better testing, earlier, with better information.**
 
 **Contact:**
 
+Email: [clairemcollis@gmail.com] 
 
-
-* Email: [yclairemcollis@gmail.com] 
-
-* LinkedIn: [your_linkedin_profile] 
+LinkedIn: [your_linkedin_profile] 
 **clairemariec/clairemariec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
