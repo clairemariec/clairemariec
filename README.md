@@ -78,7 +78,7 @@ Worked in a cross-functional Scrum team building an MVP cloud application for en
 
 ## Certification
 
-**Professional Scrum Master** Scrum.org· October 2025
+**Professional Scrum Master** Scrum.org October 2025
 
 **Certified Tester Foundation Level v4.0** ISTQB June 2024
 
@@ -86,9 +86,9 @@ Worked in a cross-functional Scrum team building an MVP cloud application for en
 
 [Code Institute 5 Day Coding Challenge](https://learn.codeinstitute.net/certificates/50846914dc604f1cacc7f83656f15a56) 23rd February 2024
 
-[Foundations of Git](https://learn.gitkraken.com/certificates/rqtjzxwrpp) 22nd January 2024
+[Foundations of Git](https://learn.gitkraken.com/certificates/rqtjzxwrpp) GitKracken 22nd January 2024
 
-[API Beginner Learning Path](http://verify.skilljar.com/c/6vc488txhsqg) 13th January 2024
+[API Beginner Learning Path](http://verify.skilljar.com/c/6vc488txhsqg) Postman 13th January 2024
 
 ## What I'm Exploring
 
@@ -108,6 +108,4 @@ I believe good QA is about more than finding defects. It's about understanding r
 
 Email: [clairemcollis@gmail.com] 
 
-LinkedIn: [your_linkedin_profile] 
-**clairemariec/clairemariec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+LinkedIn: [https://www.linkedin.com/in/clairemcollis]
